@@ -6,7 +6,13 @@
 
 <body>
 
-
+<form action="signup.php" method="POST">
+  Username: <input type="text" name="username" /><br />
+  Email: <input type="text" name="email" /><br />
+  Password: <input type="text" name="password" /><br />
+  Confirm password: <input type="text" name="password_confirm" /><br />
+  <input type="submit" value="Register" />
+</form>
 <?php 
     print (<h1>"Log in"</h1></br>);
 
@@ -36,8 +42,7 @@
 </tr>
 
 </table>
-<input type="submit" name="submit" value="Submit"/>
-</body>
+
 
 </html>
 </boby>
