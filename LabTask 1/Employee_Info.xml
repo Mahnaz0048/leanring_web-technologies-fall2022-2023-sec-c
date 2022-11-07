@@ -1,0 +1,28 @@
+<employ_infos>
+    <employ_id=1>
+     <name>John Deo</name>
+     <house_no>38</house_no>
+     <road_no>3</road_no>
+     <area>Banani,Dhaka</area>
+     <department>Sales</department>
+     <salary>$20000</salary>
+    </employ_id=1>
+    <employ_id=2>
+     <name>Mark Zuckerberg</name>
+     <flat_no>A/1</flat_no>
+     <house_no>20</house_no>
+     <road_no>18</road_no>
+     <area>Mirpur,Dhaka</area>
+     <department>Accounts</department>
+     <salary>$12000</salary>
+     </employ_id=2>
+     <employ_id=3>
+     <name>Ala Voski</name>
+     <house_no>38</house_no>
+     <road_no>3</road_no>
+     <area>Motijheel</area>
+     <department>Human Resource</department>
+     <salary>$30000</salary>
+    </employ_id=3>
+    
+  </employ_infos>
